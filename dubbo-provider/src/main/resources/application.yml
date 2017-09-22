@@ -1,0 +1,10 @@
+
+dubbo:
+  registry:
+    address:
+      localhost: 2181 #ZooKeeper注册中心的端口号
+
+
+logging:
+  level:
+    root: DEBUG
